@@ -24,7 +24,7 @@ This project implements a Streamlit-based chatbot interface that allows users to
 ## Setup Instructions
 1. **Clone the Repository:**
    ```bash
-   git clone [<repository-url>](https://github.com/ManuSharma0702/PDFTalker.git)
+   git clone https://github.com/ManuSharma0702/PDFTalker.git
    cd PDFTalker
    ```
 
